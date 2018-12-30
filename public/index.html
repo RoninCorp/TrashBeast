@@ -5,14 +5,102 @@
     <meta name="viewport"
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <title>Hallo</title>
+    <title>Index</title>
+    <link rel="stylesheet" href="stylesheets/index.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans">
+
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Quicksand">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
 </head>
 <body>
-    <h1>Hello there</h1>
+<header>
+    <h2><a href="#">TrashBeast</a></h2>
+    <nav>
+        <li><a href='/upload'>Upload</a></li>
+        <li><a href="#">About</a></li>
+        <li><a href="#">Contact</a></li>
+    </nav>
+</header>
+<section class="hero">
+    <div class="background-image" style="background-image: url(/robson-hatsukami-morgan.jpg);"></div>
+    <div class="hero-content-area">
+        <h1>Trash Beast</h1>
+        <h3>Wanna be a beast moving around gathering trash?</h3>
+        <a href="#" class="btn">Contact Us Now</a>
+    </div>
+</section>
+    <section class="destinations">
+        <h3 class="title">Our humble dream</h3>
+        <p>Tired of trash lying around everywhere? Maybe the smell ruins your day? Come along with us...
+            This is actually fake. Its just a project based on a theme of a long time ago ended hackathon competition.</p>
+        <p><em>Anyway..</em></p>
+        <hr />
+        <ul class='grid'>
+            <li class="small" style="
+            background-image: url(bas-emmen.jpg)
+            "></li>
+            <li class="large" style="
+            background-image: url(designecologist.jpg)
+            "></li>
+            <li class="large" style="
+            background-image: url(morgan-mcdonald.jpg)
+            "></li>
+            <li class="small" style="
+            background-image: url(neonbrand.jpg)
+            "></li>
+        </ul>
+    </section>
 
-        <form action="/upload" enctype="multipart/form-data" method="post">
-            <input type="file" name="upload" multiple>
-            <input type="submit" value="Upload">
-    </form>
+    <section class="packages">
+        <h3 class="title">Supposed packages and actual reason for this app to exist.</h3>
+        <p>We are supposed to suggest the shortest route to drivers of dustbin lorries when picking up and transporting rubbish.</p>
+        <p>The only way to be a real <em>Trash <b>Beast</b></em></p>
+        <p>Moving on to each competition parts and app functionalities </p>
+        <hr>
+        <ul class="grid">
+            <li>
+                <i class="fas fa-location-arrow  fa-4x"></i>
+                <h4><b>Part A</b></h4>
+                <p><em>Locate the villages</em> aaaand <em>Calculate the distances between all of them.</em>
+                <b>Also...</b>
+                <em>Allow the app to manually accept a file containing information on key points.</em></p>
+            </li>
+            <li>
+                <i class="fas fa-ruler-combined fa-4x"></i>
+                <h4><b>Part B</b></h4>
+                <p>Bunch of rules based on how the shortest route should be calculated. More on this <a style="color:black" href="https://github.com/serrestech/hackathon/tree/gh-pages/pages/topic"><b>HERE</b></a></p>
+            </li>
+            <li>
+                <i class="fas fa-user-friends fa-4x"></i>
+                <h4>Part C</h4>
+                <p>The application developed will need to have a friendly UI to allow the driver to easily enter new locations (up to 10)</p>
+            </li>
+            <li>
+                <i class="fas fa-teeth fa-4x"></i>
+                <h4>Part D</h4>
+                <p>The quality of the Algorithm you present and the Presentation you make will be evaluated.</p>
+            </li>
+        </ul>
+    </section>
+    
+
+    <section class="contact">
+        <h3 class="title">Learn more</h3>
+        <p>Want to know about events happening in our city? visit  <a style="color:black" href="https://www.serrestech.gr/"><b>THIS. </b></a></p>
+
+
+    </section>
+    <footer>
+        <p>Images courtesy of <a href="http://unsplash.com/">unsplash</a></p>
+        <p>Why are you even reading this? there is never anything interesting in the footer!</p>
+        <ul>
+            <li><a href=""><i class="fa fa-twitter-square fa-2x"></i></a></li>
+            <li><a href=""><i class="fa fa-facebook-square fa-2x"></i></a></li>
+            <li><a href=""><i class="fa fa-snapchat-square fa-2x"></i></a></li>
+        </ul>
+    </footer>
+</section>
+
+
 </body>
 </html>
