@@ -1,0 +1,274 @@
+[
+  {
+    "origin": {
+      "name": "Serres",
+      "location": {
+        "lat": 41.092083,
+        "lang": 23.541016
+      }
+    },
+    "destination": {
+      "name": " Provatas",
+      "location": {
+        "lat": 41.068238,
+        "lang": 23.390686
+      }
+    },
+    "distance": 15.1
+  },
+  {
+    "origin": {
+      "name": "Serres",
+      "location": {
+        "lat": 41.092083,
+        "lang": 23.541016
+      }
+    },
+    "destination": {
+      "name": " K. Mitrousi",
+      "location": {
+        "lat": 41.05868,
+        "lang": 23.457547
+      }
+    },
+    "distance": 9.4
+  },
+  {
+    "origin": {
+      "name": "Serres",
+      "location": {
+        "lat": 41.092083,
+        "lang": 23.541016
+      }
+    },
+    "destination": {
+      "name": " Skoutari",
+      "location": {
+        "lat": 41.020032,
+        "lang": 23.520701
+      }
+    },
+    "distance": 9.1
+  },
+  {
+    "origin": {
+      "name": "Provatas",
+      "location": {
+        "lat": 41.068238,
+        "lang": 23.390686
+      }
+    },
+    "destination": {
+      "name": " A. Kamila",
+      "location": {
+        "lat": 41.05832,
+        "lang": 23.424134
+      }
+    },
+    "distance": 5.1
+  },
+  {
+    "origin": {
+      "name": "K. Mitrousi",
+      "location": {
+        "lat": 41.05868,
+        "lang": 23.457547
+      }
+    },
+    "destination": {
+      "name": " A. Kamila",
+      "location": {
+        "lat": 41.05832,
+        "lang": 23.424134
+      }
+    },
+    "distance": 3.1
+  },
+  {
+    "origin": {
+      "name": "K. Mitrousi",
+      "location": {
+        "lat": 41.05868,
+        "lang": 23.457547
+      }
+    },
+    "destination": {
+      "name": " Koumaria",
+      "location": {
+        "lat": 41.016434,
+        "lang": 23.434656
+      }
+    },
+    "distance": 5.5
+  },
+  {
+    "origin": {
+      "name": "K. Mitrousi",
+      "location": {
+        "lat": 41.05868,
+        "lang": 23.457547
+      }
+    },
+    "destination": {
+      "name": " K. Kamila",
+      "location": {
+        "lat": 41.020431,
+        "lang": 23.483293
+      }
+    },
+    "distance": 7
+  },
+  {
+    "origin": {
+      "name": "A. Kamila",
+      "location": {
+        "lat": 41.05832,
+        "lang": 23.424134
+      }
+    },
+    "destination": {
+      "name": " Koumaria",
+      "location": {
+        "lat": 41.016434,
+        "lang": 23.434656
+      }
+    },
+    "distance": 6.3
+  },
+  {
+    "origin": {
+      "name": "K. Kamila",
+      "location": {
+        "lat": 41.020431,
+        "lang": 23.483293
+      }
+    },
+    "destination": {
+      "name": " Koumaria",
+      "location": {
+        "lat": 41.016434,
+        "lang": 23.434656
+      }
+    },
+    "distance": 5.7
+  },
+  {
+    "origin": {
+      "name": "Koumaria",
+      "location": {
+        "lat": 41.016434,
+        "lang": 23.434656
+      }
+    },
+    "destination": {
+      "name": " Adelfiko",
+      "location": {
+        "lat": 41.014645,
+        "lang": 23.457354
+      }
+    },
+    "distance": 2.5
+  },
+  {
+    "origin": {
+      "name": "Peponia",
+      "location": {
+        "lat": 40.988154,
+        "lang": 23.516756
+      }
+    },
+    "destination": {
+      "name": " Adelfiko",
+      "location": {
+        "lat": 41.014645,
+        "lang": 23.457354
+      }
+    },
+    "distance": 6.8
+  },
+  {
+    "origin": {
+      "name": "Skoutari",
+      "location": {
+        "lat": 41.020032,
+        "lang": 23.520701
+      }
+    },
+    "destination": {
+      "name": " K. Kamila",
+      "location": {
+        "lat": 41.020431,
+        "lang": 23.483293
+      }
+    },
+    "distance": 3.2
+  },
+  {
+    "origin": {
+      "name": "Skoutari",
+      "location": {
+        "lat": 41.020032,
+        "lang": 23.520701
+      }
+    },
+    "destination": {
+      "name": " Peponia",
+      "location": {
+        "lat": 40.988154,
+        "lang": 23.516756
+      }
+    },
+    "distance": 4.5
+  },
+  {
+    "origin": {
+      "name": "Skoutari",
+      "location": {
+        "lat": 41.020032,
+        "lang": 23.520701
+      }
+    },
+    "destination": {
+      "name": " Ag. Eleni",
+      "location": {
+        "lat": 41.003545,
+        "lang": 23.559196
+      }
+    },
+    "distance": 4.6
+  },
+  {
+    "origin": {
+      "name": "Ag. Eleni",
+      "location": {
+        "lat": 41.003545,
+        "lang": 23.559196
+      }
+    },
+    "destination": {
+      "name": " Peponia",
+      "location": {
+        "lat": 40.988154,
+        "lang": 23.516756
+      }
+    },
+    "distance": 4.7
+  },
+  {
+    "origin": {
+      "name": "Peponia",
+      "location": {
+        "lat": 40.988154,
+        "lang": 23.516756
+      }
+    },
+    "destination": {
+      "name": " Adelfiko",
+      "location": {
+        "lat": 41.014645,
+        "lang": 23.457354
+      }
+    },
+    "distance": 6.8
+  }
+]
